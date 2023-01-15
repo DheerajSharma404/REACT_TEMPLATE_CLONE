@@ -13,3 +13,4 @@ npm install
   ```
   npm run dev
   ```
+ 3. Copy the url and the paste it on your browser.
