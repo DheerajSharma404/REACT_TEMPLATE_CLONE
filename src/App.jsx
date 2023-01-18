@@ -1,6 +1,7 @@
 import React from "react";
 import NavBar from "./NavBar/NavBar";
 import Hero from "./Hero/Hero";
+import Feature from "./Feature/Feature";
 
 //Styes
 import "./App.css";
@@ -10,6 +11,7 @@ function App() {
     <div className='App'>
       <NavBar />
       <Hero />
+      <Feature />
     </div>
   );
 }

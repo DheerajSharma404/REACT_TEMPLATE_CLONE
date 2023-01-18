@@ -6,7 +6,7 @@ import "./NavBar.css";
 const NavBar = () => {
   return (
     <nav className='nav'>
-      <div className='nav__conatiner'>
+      <div className='nav__container'>
         <figure className='nav__logo__container'>
           <img
             src='./src/assets/logo.2c489fc453a1783cbadacf914efa3df6.svg'

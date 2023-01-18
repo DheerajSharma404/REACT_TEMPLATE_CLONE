@@ -1,13 +1,12 @@
-.nav__conatiner {
+.nav__container {
   width: 100%;
-  max-width: 72%;
+  max-width: 80%;
   margin: 0 auto;
-  height: 80px;
   display: flex;
   justify-content: space-between;
   align-items: center;
   height: 100px;
-  padding: 2em;
+  padding-block: 2em;
 }
 
 .nav__logo__container {
