@@ -1,0 +1,31 @@
+.workStepList__list {
+  display: flex;
+  width: 30em;
+  margin: 0 1.6em;
+  padding: 0.5em 0.5em;
+}
+.list__number {
+  padding-top: 8px;
+  font-size: 2.2rem;
+  font-weight: 600;
+  line-height: 36px;
+  color: #cbd5e0;
+}
+.workStepList__text {
+  margin: 0.5em 0em 0 1.8em;
+}
+.title {
+  font-size: 1.4rem;
+  font-weight: 700;
+  letter-spacing: 0.6px;
+  line-height: 24px;
+  color: #243e63;
+}
+.subtext {
+  font-size: 1rem;
+  font-weight: 500;
+  line-height: 32px;
+  color: #7c8ba1;
+  margin-top: 1em;
+  max-width: 80%;
+}
