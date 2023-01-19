@@ -68,3 +68,36 @@ Slide __02---Styling
 .work__listOfSteps {
   margin: 3em 0 0 0;
 }
+/* 
+Slide __03---Styling
+*/
+
+.work__cards {
+  display: flex;
+  align-items: flex-start;
+  justify-content: center;
+  max-width: 90%;
+  margin-block: 3em;
+}
+.left__card--div {
+  display: flex;
+  align-items: center;
+}
+.left__card--div > p {
+  margin-left: 0.8em;
+}
+.right__card--div {
+  display: flex;
+  align-items: center;
+}
+.right__card--div > p {
+  margin-left: 0.8em;
+}
+.subtext__ext {
+  max-width: 100%;
+  padding-inline: 1em;
+}
+.work__img3 {
+  width: 100%;
+  height: 100%;
+}
