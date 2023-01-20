@@ -1,0 +1,97 @@
+.pricing__row {
+  width: 100%;
+  max-width: 80%;
+  margin: 0 auto;
+  text-align: center;
+  padding-block: 4em;
+}
+.pricing__subtext {
+  width: 100%;
+  max-width: 40%;
+  margin: 1em auto;
+}
+.pricing__cards {
+  display: flex;
+}
+.card {
+  display: flex;
+  flex-direction: column;
+  width: calc(100% / 3);
+  border-top: 8px solid rgb(46, 225, 186);
+  border-radius: 8px;
+  margin: 4em 1em 0 0;
+  border-bottom: 2px solid #e2e8f0;
+  border-left: 2px solid #e2e8f0;
+  border-right: 2px solid #e2e8f0;
+}
+
+.plans__div1 {
+  display: flex;
+  flex-direction: column;
+  padding: 2em 1em;
+}
+.name {
+  font-size: 1.25rem;
+  font-weight: 700;
+  line-height: 32.5px;
+  text-align: center;
+  color: #1a202c;
+}
+.price {
+  font-size: 3rem;
+  font-weight: 700;
+  line-height: 78px;
+  text-align: center;
+  color: #1a202c;
+  margin: 0.25em 0 0.25em 0;
+}
+.duration {
+  font-size: 1rem;
+  font-weight: 700;
+  letter-spacing: 1.6px;
+  line-height: 26px;
+  text-align: center;
+  color: #a0aec0;
+}
+.plans__div2 {
+  display: flex;
+  flex-direction: column;
+  border-top: 2px solid #e2e8f0;
+  border-bottom: 2px solid #e2e8f0;
+  padding: 2em 1em;
+}
+
+.feature {
+  font-size: 1rem;
+  font-weight: 500;
+  line-height: 24px;
+  text-align: center;
+  margin: 1.25em 0 0 0;
+  color: #718096;
+}
+.main-feature {
+  font-size: 1.25rem;
+  font-weight: 700;
+  letter-spacing: 0.5px;
+  line-height: 30px;
+  color: #1a202c;
+}
+.plans__div3 {
+  display: flex;
+  flex-direction: column;
+  padding: 2em 1em;
+}
+.btn {
+  background: rgb(46, 225, 186);
+  max-width: 100%;
+  margin: 0 auto;
+  font-size: 0.875rem;
+  font-weight: 700;
+  letter-spacing: 0.7px;
+  line-height: 21px;
+  text-align: center;
+  padding: 1.142em 4em;
+  border: none;
+  border-radius: 100px;
+  color: #fff;
+}

@@ -3,7 +3,7 @@ import NavBar from "./NavBar/NavBar";
 import Hero from "./Hero/Hero";
 import Feature from "./Feature/Feature";
 import Work from "./Work/Work";
-
+import Pricing from "./Pricing/Pricing";
 //Styes
 import "./App.css";
 
@@ -14,6 +14,7 @@ function App() {
       <Hero />
       <Feature />
       <Work />
+      <Pricing />
     </div>
   );
 }
